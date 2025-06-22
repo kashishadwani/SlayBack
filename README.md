@@ -45,7 +45,7 @@ Install all dependencies using:
 
 ```bash
 pip install opencv-python python-vlc deepface numpy
-````
+```
 
 ---
 
