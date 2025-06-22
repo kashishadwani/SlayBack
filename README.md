@@ -1,6 +1,6 @@
 
-
 ````markdown
+````
 # 🎭 Emotion-Controlled Video Playback
 
 Control video playback using your facial expressions. This system detects your mood through the webcam and adjusts the playback speed of a video accordingly—speed up, slow down, or pause—all without lifting a finger.
@@ -43,9 +43,9 @@ Control video playback using your facial expressions. This system detects your m
 
 Install all dependencies using:
 
-```bash
+````bash
 pip install opencv-python python-vlc deepface numpy
-```
+````
 
 ---
 
